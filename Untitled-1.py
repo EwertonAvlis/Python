@@ -1,2 +1,2 @@
 print("Hello world and git hub!")
-print("Alterado no githun")
+print("Alterado no github")
